@@ -1,6 +1,6 @@
 # AP-Moller-DSML-Challenge
 
-Methodology and Approach
+## Methodology and Approach
 1. Importing libraries and loading the dataset
 2. Looking up for basic info and datatypes of the dataset
 3. Visualising the distribution of categrorial variables in the dataset.
