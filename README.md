@@ -26,7 +26,7 @@ Models: Models: Random Forest Regressor, Gradient Boosting Regressor
 16. Saving the model as pkl file
 
 ## Conclusion and Result
-Out of all the models and approaches applied, PCA applied dataset + fine-tunned Gradient Boosting Regressor gave teh best results, with t=least difference between validation and test results
+Out of all the models and approaches applied, PCA applied dataset + fine-tunned Gradient Boosting Regressor gave teh best results, with the least difference between validation and test results
 
 Validation Results:
 
