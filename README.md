@@ -24,3 +24,12 @@ Models: Models: Random Forest Regressor, Gradient Boosting Regressor
 14. Visualising the best model on test data
 15. Conclusion and Result
 16. Saving the model as pkl file
+
+## Conclusion and Result
+Out of all the models and approaches applied, PCA applied dataset + fine-tunned Gradient Boosting Regressor gave teh best results, with t=least difference between validation and test results
+Validation Results:
+R2 Score: 0.5735
+RMSE: 32.3668
+Test Results:
+R2 Score: 0.3955
+RMSE: 40.4959
